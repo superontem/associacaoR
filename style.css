@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background-image: url(4466ab764530ff148c63aff0b72183c9.jpg);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+header {
+    background-color: #363030;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgb(136, 133, 133);
+    font-weight: bold;
+}
+.imagem-centralizada {
+    display: block;
+    margin: 2rem auto;
+    max-width: 100%;
+    height: auto;
+}
